@@ -1,0 +1,12 @@
+GitHub is a web-based platform that provides hosting for Git repositories. It allows individuals and teams to collaborate on projects, track changes to their codebase, and manage software development workflows.
+
+Key features of GitHub include:
+
+Version Control: GitHub uses Git, a distributed version control system, to track changes to files in a repository. This allows multiple developers to work on the same project simultaneously without interfering with each other's work.
+
+Repository Hosting: GitHub provides hosting for Git repositories, making it easy to create, clone, and manage repositories for your projects. Each repository has its own URL and can be accessed by team members or collaborators.
+
+Collaboration Tools: GitHub offers a range of collaboration tools, such as pull requests, issues, and project boards, to facilitate communication and coordination among team members. Pull requests allow developers to propose changes to a repository and request feedback or approval from others. Issues can be used to track bugs, feature requests, or other tasks. Project boards provide a visual overview of project tasks and their status.
+
+Community and Open Source: GitHub hosts millions of open-source projects, making it a vibrant community for developers to discover, contribute to, and learn from projects in various programming languages and domains.
+
